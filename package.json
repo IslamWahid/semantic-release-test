@@ -5,5 +5,12 @@
   "repository": "git@github.com:IslamWahid/semantic-release-test.git",
   "author": "Islam <eng.islamwahid@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "semantic-release": "^17.4.2"
+  }
 }
