@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.3.0...v1.4.0) (2021-05-07)
+
+
+### Features
+
+* add github plugin ([a25c532](https://github.com/IslamWahid/semantic-release-test/commit/a25c532b6e05e8ea1a14e7ec704933247877b669))
+
 # [1.3.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.2.1...v1.3.0) (2021-05-07)
 
 
