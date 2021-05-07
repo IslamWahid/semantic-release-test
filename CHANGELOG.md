@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.2.1...v1.3.0) (2021-05-07)
+
+
+### Features
+
+* update test ([01e7dba](https://github.com/IslamWahid/semantic-release-test/commit/01e7dbac0dba239a1d72f196398a861a16742ac1))
+
 ## [1.2.1](https://github.com/IslamWahid/semantic-release-test/compare/v1.2.0...v1.2.1) (2021-05-07)
 
 
