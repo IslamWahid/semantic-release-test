@@ -1,3 +1,12 @@
+# [3.0.0](https://github.com/IslamWahid/semantic-release-test/compare/v2.0.0...v3.0.0) (2021-05-07)
+
+
+### Features
+
+* add analyzer configs ([1ca1021](https://github.com/IslamWahid/semantic-release-test/commit/1ca102135708f6d5c1402bb493c956e0de6b6349))
+* add new log ([bdd9314](https://github.com/IslamWahid/semantic-release-test/commit/bdd9314f01d205f6598aa6cce5f535952d7b925a))
+* new error2 ([6f9d279](https://github.com/IslamWahid/semantic-release-test/commit/6f9d2793ca640e3a8cce44a42f2ff49d2281cb4c))
+
 # [2.0.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.4.0...v2.0.0) (2021-05-07)
 
 
