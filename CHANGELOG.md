@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.4.0...v2.0.0) (2021-05-07)
+
+
+### Features
+
+* add err ([68b91b9](https://github.com/IslamWahid/semantic-release-test/commit/68b91b967142e10de339d8d7126f84add2f9353e))
+
+
+### BREAKING CHANGES
+
+* log error
+
 # [1.4.0](https://github.com/IslamWahid/semantic-release-test/compare/v1.3.0...v1.4.0) (2021-05-07)
 
 
