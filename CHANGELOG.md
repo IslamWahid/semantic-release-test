@@ -1,3 +1,15 @@
+# [3.3.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.2.0...v3.3.0) (2021-05-10)
+
+
+### Bug Fixes
+
+* use the personal token ([b83bb2b](https://github.com/IslamWahid/semantic-release-test/commit/b83bb2b8970dcb1b2ade1d0cf3b27784b1bf3c04))
+
+
+### Features
+
+* test using available token ([c7a2f6f](https://github.com/IslamWahid/semantic-release-test/commit/c7a2f6f458710debd98301e290c2c9908c6aa195))
+
 # [3.2.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.1.0...v3.2.0) (2021-05-10)
 
 
