@@ -1,3 +1,16 @@
+# [3.2.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.1.0...v3.2.0) (2021-05-10)
+
+
+### Bug Fixes
+
+* token ([dfe9a85](https://github.com/IslamWahid/semantic-release-test/commit/dfe9a85b5c2cff4f4a4eed3ab8cbb64060ee1f44))
+
+
+### Features
+
+* test token ([df1722e](https://github.com/IslamWahid/semantic-release-test/commit/df1722e96bd98e72f702c100476e923151365686))
+* update token ([2f7dfb8](https://github.com/IslamWahid/semantic-release-test/commit/2f7dfb803399e3afab665de3f4fd5abe4e4a5bba))
+
 # [3.1.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.0.0...v3.1.0) (2021-05-10)
 
 
