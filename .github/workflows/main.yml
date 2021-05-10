@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          persist-credentials: false
       - name: Setup node
         uses: actions/setup-node@v2
         with:
@@ -42,8 +40,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          persist-credentials: false
       - name: Setup node
         uses: actions/setup-node@v2
         with:
@@ -71,8 +67,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          persist-credentials: false
       - name: Setup node
         uses: actions/setup-node@v2
         with:
@@ -93,6 +87,6 @@ jobs:
           echo "something"
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # GH_TOKEN: ${{ secrets.GH_TOKEN_SEMANTIC_RELEASE }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_SEMANTIC_RELEASE }}
         run: yarn semantic-release
