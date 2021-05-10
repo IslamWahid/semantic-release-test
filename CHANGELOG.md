@@ -1,3 +1,10 @@
+## [3.3.1](https://github.com/IslamWahid/semantic-release-test/compare/v3.3.0...v3.3.1) (2021-05-10)
+
+
+### Bug Fixes
+
+* test fix ([68bbf89](https://github.com/IslamWahid/semantic-release-test/commit/68bbf8900da43c65d9f1cd870e85b68c22f3d989))
+
 # [3.3.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.2.0...v3.3.0) (2021-05-10)
 
 
