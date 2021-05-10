@@ -1,3 +1,19 @@
+# [3.1.0](https://github.com/IslamWahid/semantic-release-test/compare/v3.0.0...v3.1.0) (2021-05-10)
+
+
+### Bug Fixes
+
+* checkout token ([9df7d25](https://github.com/IslamWahid/semantic-release-test/commit/9df7d2571872a2304655b18e076e4569be02cc3b))
+* protected branches issue ([d0d5c7a](https://github.com/IslamWahid/semantic-release-test/commit/d0d5c7a05d2aa0b936219c84f3da23ff0e6fb4d1))
+* set persist-credentials to false ([8192a6a](https://github.com/IslamWahid/semantic-release-test/commit/8192a6ac43891287cd27a9e8a4c9171088d3b769))
+* setup gh token ([e19b6c2](https://github.com/IslamWahid/semantic-release-test/commit/e19b6c27434ba8695cb080ab910ecadb919bb5ef))
+* token ([bad8b0c](https://github.com/IslamWahid/semantic-release-test/commit/bad8b0ce9bfac2a3752a11988467b0812c2c796c))
+
+
+### Features
+
+* error ([50d0ce8](https://github.com/IslamWahid/semantic-release-test/commit/50d0ce81c0d110fd8a5324630fd3cf909a18c8c6))
+
 # [3.0.0](https://github.com/IslamWahid/semantic-release-test/compare/v2.0.0...v3.0.0) (2021-05-07)
 
 
