@@ -67,6 +67,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN_SEMANTIC_RELEASE }}
       - name: Setup node
         uses: actions/setup-node@v2
         with:
@@ -87,5 +89,5 @@ jobs:
           echo "something"
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SEMANTIC_RELEASE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn semantic-release
